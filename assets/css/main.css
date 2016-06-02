@@ -38,17 +38,17 @@ body {
 
 header {
   background: #292929;
-  font-family: 'Chewy', cursive;
 }
 
 .left {
   float: left;
   font-size: 2em;
   color: #8999cd;
+  font-family: 'Chewy', cursive;
 }
 
 .right {
-  margin-top: 7px;
+  margin-top: 9px;
   float: right;
   font-size: 1em;
   color: white;
